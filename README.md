@@ -9,6 +9,7 @@ But please look at nickname first it can be DNI sometimes!
 open to new friends
 
 https://giryangel.straw.page/ !
+https://guns.lol/giryangel
 
 <img width="540" height="238" alt="image" src="https://github.com/user-attachments/assets/e9b5d6b3-a385-411e-989f-b88463efa9f9" />
 
