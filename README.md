@@ -1,5 +1,5 @@
 <p align="center">
- ![Static Badge](https://img.shields.io/badge/bunny-%23947566)
+![Static Badge](https://img.shields.io/badge/bunny-%23947566)
 </p>
 
 
