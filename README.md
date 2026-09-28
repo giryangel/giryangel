@@ -23,7 +23,10 @@ byeee!
 <details>
 <summary> click me! </summary>
 If I could, I'd be your little spoon
-And kiss your fingers forevermore
+
+ And kiss your fingers forevermore
+
 But, big spoon, you have so much to do
+
 And I have nothing ahead of me
 </details>
