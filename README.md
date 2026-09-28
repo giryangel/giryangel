@@ -1,1 +1,2 @@
-https://sun9-5.vkuserphoto.ru/s/v1/ig2/Fz84ZJ5qYRu_AITadEe7_7RWfPZCiMeXG2nTtjnYy9QY6acZFkdBYHmpCneq22f6mD3sJCzDnIwgGVzIdVF6Oh_r.jpg?quality=95&as=32x27,48x40,72x60,108x90,160x133,240x199,360x299,480x398,540x448,640x531,720x597,1080x896,1280x1062,1440x1194,1918x1591&from=bu&u=_C5HswIR8WpLniWaiGDfjpICcQq-JtGGLCx8FKDbdO0&cs=1918x0
+<img width="1918" height="1591" alt="image" src="https://github.com/user-attachments/assets/08999532-92a8-44e7-9f76-d60845556f11" />
+
