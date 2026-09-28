@@ -9,9 +9,9 @@ rita/girya.   she/any pronouns.   16 y.o   c+h+k loved!
 <p align="center">
 mostly afk, so w2i ! sorry if i ignored u! 
 </p>
-
-<img width="518" height="251" alt="image" src="https://github.com/user-attachments/assets/73b6a851-5e76-4d0c-b0da-7c390b43a6d3" />
-
+<p align="center">
+ <img width="518" height="251" alt="image" src="https://github.com/user-attachments/assets/73b6a851-5e76-4d0c-b0da-7c390b43a6d3" />
+</p>
 <p align="center">
  open to new friends ! s-ata n s-sp! 
 </p>
