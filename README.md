@@ -1,5 +1,5 @@
 
-[![Anurag's GitHub stats](https://vercel.app)](https://github.com)
+
 
 <p align="center">
 rita/girya.   she/any pronouns.   16 y.o   c+h+k loved!  
@@ -22,7 +22,7 @@ byeee!
 </p>
 
 <details>
-<summary> click me! </summary>
+<summary> meow.... </summary>
 If I could, I'd be your little spoon
 
  And kiss your fingers forevermore
