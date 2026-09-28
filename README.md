@@ -21,6 +21,8 @@ mostly afk, so w2i ! sorry if i ignored u!
 byeee! 
 </p>
 
+<p align="center"> 
+
 <details>
 <summary> meow.... </summary>
 If I could, I'd be your little spoon
@@ -31,3 +33,4 @@ But, big spoon, you have so much to do
 
 And I have nothing ahead of me.
 </details>
+</p>
