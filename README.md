@@ -1,4 +1,5 @@
 
+[![Anurag's GitHub stats](https://vercel.app)](https://github.com)
 
 <p align="center">
 rita/girya.   she/any pronouns.   16 y.o   c+h+k loved!  
