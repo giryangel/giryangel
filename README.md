@@ -1,5 +1,6 @@
-
-
+<p align="center">
+REVERSE CONNOR IRL
+</p>
 
 <p align="center">
 rita/girya.   she/any pronouns.   16 y.o   c+h+k loved!  
