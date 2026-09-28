@@ -1,3 +1,7 @@
+![Static Badge](https://img.shields.io/badge/bunny-%23947566)
+
+
+
 <p align="center">
 REVERSE CONNOR IRL
 </p>
