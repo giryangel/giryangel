@@ -15,3 +15,7 @@ mostly afk, so w2i ! sorry if i ignored u!
 <p align="center">
  open to new friends ! s-ata n s-sp! 
 </p>
+
+<p align="center">
+byeee! 
+</p>
