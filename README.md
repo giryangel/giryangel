@@ -15,12 +15,13 @@ What am I to do in this world without you? Where can I run from this crushing gl
 <p align="center">
 My imagination slumbers among cigarette butts and unfinished books.
 <p align="center">
-I just don’t know what to do.
+<em>I just don’t know what to do.<em>
 </p>
 <p align="center">
 <img width="500" height="279" alt="image" src="https://github.com/user-attachments/assets/71cb5a39-593a-45fa-91ed-530f9c22f375" />
 
 <p align="center">
-<em>Gather me into your hands and warm me in your palms.<em>
+Gather me into your hands and warm me in your palms.
+</p>
 <p align="center">
-I will seep into your skin and become you, even if you resist.
+<em>I will seep into your skin and become you, even if you resist.<em>
