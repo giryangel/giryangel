@@ -7,7 +7,7 @@ All my words could shatter like cheap flea-market trinkets—
 <p align="center">
 Nobody wants to buy them, not even on clearance.
 <p align="center">
-I text you: “Looks like I’m gonna be late, sorry.”
+I text you: *“Looks like I’m gonna be late, sorry.”*
 <p align="center">
 The gates to my station are locked; I’m going offline.
 <p align="center">
@@ -19,3 +19,8 @@ I just don’t know what to do.
 </p>
 <p align="center">
 <img width="500" height="279" alt="image" src="https://github.com/user-attachments/assets/71cb5a39-593a-45fa-91ed-530f9c22f375" />
+
+<p align="center">
+*Gather me into your hands and warm me in your palms.*
+<p align="center">
+*I will seep into your skin and become you, even if you resist.*
