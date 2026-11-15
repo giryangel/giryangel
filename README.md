@@ -1,20 +1,20 @@
 <p align="center">
 There’s no way out of this trap, so we’ll just catch some random movie.
-
+<p align="center">
 But this raw, messy style of mine won’t keep you around.
-
+<p align="center">
 All my words could shatter like cheap flea-market trinkets—
-
+<p align="center">
 Nobody wants to buy them, not even on clearance.
-
+<p align="center">
 I text you: “Looks like I’m gonna be late, sorry.”
-
+<p align="center">
 The gates to my station are locked; I’m going offline.
-
+<p align="center">
 What am I to do in this world without you? Where can I run from this crushing gloom?
-
+<p align="center">
 My imagination slumbers among cigarette butts and unfinished books.
-
+<p align="center">
 I just don’t know what to do.
 </p>
 
