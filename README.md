@@ -17,5 +17,5 @@ My imagination slumbers among cigarette butts and unfinished books.
 <p align="center">
 I just don’t know what to do.
 </p>
-
+<p align="center">
 <img width="500" height="279" alt="image" src="https://github.com/user-attachments/assets/71cb5a39-593a-45fa-91ed-530f9c22f375" />
