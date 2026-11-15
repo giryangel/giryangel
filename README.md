@@ -20,7 +20,7 @@ I just don’t know what to do.
 <p align="center">
 <img width="500" height="279" alt="image" src="https://github.com/user-attachments/assets/71cb5a39-593a-45fa-91ed-530f9c22f375" />
 
-<p align="center">
+__<p align="center">__
 Gather me into your hands and warm me in your palms.
 <p align="center">
 I will seep into your skin and become you, even if you resist.
